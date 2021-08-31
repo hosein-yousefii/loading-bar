@@ -1,4 +1,4 @@
-# progress-bar
+# Loading
 
 This script just show a loadnig bar in the bash.
 
