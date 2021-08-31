@@ -1,6 +1,6 @@
 #!/bin/bash
 
-progress-bar() {
+loading() {
   local duration=${1}
   local sleep=${2}
     already_done() { for ((done=0; done<$elapsed; done++)); do printf "▇"; done }
