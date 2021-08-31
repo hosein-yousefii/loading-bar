@@ -18,6 +18,7 @@ loading 100 1 "check app configuration"
 The result would be like this:
 
 check app configuration
+
 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇| 100%
 
 
