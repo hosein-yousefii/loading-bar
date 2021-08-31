@@ -1,7 +1,8 @@
 # progress-bar
 
 This script just show a loadnig bar in the bash.
-You should just set just 3 arguments depend on your script.
+
+You should just set 3 arguments, depend on your script.
 
 
 # HOW TO
